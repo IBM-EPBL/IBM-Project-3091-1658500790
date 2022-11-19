@@ -1,4 +1,4 @@
-                                                               Nutrition Assistant Application 
+                                                               Nutrition Assistant Application using Cloud Application
                                                                
                                                                Team Id : PNT2022TMID50690
                                                                
